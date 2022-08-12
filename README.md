@@ -11,9 +11,9 @@ In medicine and biology, the reason why diseases occur is a highly researched to
 
 This repository include:
 
-- all the the skrip for results of step 1,2,3,4,5
+- all the skrips for the results of step 1-5 
 
-- all the the Cytoscape files for the networks
+- all the Cytoscape files for the networks (step 5-7)
 
 - general exploratory analyses skript
 
