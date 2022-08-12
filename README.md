@@ -1,7 +1,6 @@
-# Social-Network-Analyses
-Research Seminar 
+# Social-Network-Analyses: Research Seminar 
 
-Abstract
+## Abstract
 
 
 
