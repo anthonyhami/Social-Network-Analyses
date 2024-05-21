@@ -15,6 +15,6 @@ This repository include:
 
 - all the Cytoscape files for the networks (step 5-7)
 
-- general exploratory analyses skript
+- general exploratory analyses script
 
 - used data-sets
